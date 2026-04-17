@@ -1,0 +1,20 @@
+{
+  "name": "@autumnbox/plugin-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AutumnBox plugin template — clone and start building your own plugin",
+  "type": "module",
+  "scripts": {
+    "build": "autumnbox-sdk build",
+    "package": "autumnbox-sdk package",
+    "typecheck": "tsc -b --pretty false",
+    "clean": "rm -rf dist *.tsbuildinfo *.atmb src/__entry__.ts"
+  },
+  "devDependencies": {
+    "@ant-design/icons": "^6.1.1",
+    "@autumnbox/sdk": "^0.1.0",
+    "@types/react": "^19.0.0",
+    "antd": "^6.3.4",
+    "react": "^19.0.0"
+  }
+}

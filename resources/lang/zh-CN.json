@@ -1,0 +1,7 @@
+{
+  "<name>": "我的插件",
+  "<description>": "在此填写你的插件描述",
+  "<author>": "你的名字",
+  "app.name.example": "示例应用",
+  "card.name.example": "示例卡片"
+}

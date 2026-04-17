@@ -1,0 +1,7 @@
+{
+  "<name>": "My Plugin",
+  "<description>": "Describe your plugin here",
+  "<author>": "Your Name",
+  "app.name.example": "Example App",
+  "card.name.example": "Example Card"
+}
